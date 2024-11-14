@@ -297,7 +297,7 @@ entries:
       This AMP uses Ollama LLM service to create a self-hosted Wealth Educator application contextualized for Indian Capital Market.It uses the llama3 LLM to provide ChatGPT style interface that holds conversational memory. In addition we demonstrate LLM Ops through prompt evaluation using TruLens and Mlflow frameworks.
       IMPORTANT NOTE: You need to use Ollama community runtime with this AMP. Refer details here: https://github.com/cloudera/community-ml-runtimes/tree/main/ollama
     image_path: >-
-      https://raw.githubusercontent.com/superellipse/WealthE/main/assets/images/amp-logo.png    
+      https://raw.githubusercontent.com/bigdata-biz/SuperEllipse-WealthE/main/assets/images/amp-logo.png
     tags:
       - LLMOps
       - ollama
@@ -305,7 +305,7 @@ entries:
       - llama3
       - chainlit
       - Trulens
-    git_url: 'https://github.com/SuperEllipse/WealthE'
+    git_url: 'https://github.com/bigdata-biz/SuperEllipse-WealthE'
     is_prototype: true
     is_community: true
     is_new: true
